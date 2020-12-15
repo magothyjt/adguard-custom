@@ -1,3 +1,1 @@
-||yahoo.com^
-||ibm.com^
-||nextdoor.com^
+||shudder.com^
